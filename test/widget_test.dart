@@ -93,7 +93,7 @@ class _LoginPageState extends State<LoginPage> {
                   );
                 }
               },
-              child: Text('Login '),
+              child: Text('Login'),
             ),
           ],
         ),
